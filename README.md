@@ -29,7 +29,7 @@ Web service will accept any positive integer, any other value will result with a
 Two test classes are provided
 
 * tests/Feature/MathApiControllerTest.php - tests webservice using router and api calls
-* tests/Unit/MatpApiControllerTest.php - tests done on instance of MathApiController class
+* tests/Unit/MathApiControllerTest.php - tests done on instance of MathApiController class
 
 ## Classes ##
 
